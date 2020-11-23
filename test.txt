@@ -4,3 +4,4 @@ test b
 test d
 new test
 test c
++ test
