@@ -2,3 +2,4 @@ test master
 test a
 test b
 test d
+new test
