@@ -1,7 +1,2 @@
-test master
-test a
-test b
-test d
-new test
-test c
-+ test
+three
+fout
